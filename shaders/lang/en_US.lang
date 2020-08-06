@@ -1,0 +1,43 @@
+option.INFO=§lMC Retro §7by §6§oYuler§f
+value.INFO.0=v1.0
+
+option.affine_fix=Fix Affine Texture Mapping
+
+option.resolution=Jitter Resolution
+
+option.HAND_JITTER=Hand Jitter
+
+option.ITEM_JITTER=Item Jitter
+
+option.XY_JITTER=XY Jitter
+
+option.crt=CRT Effect
+
+screen.CRT=§oCRT Settings
+
+option.screen_base_size=Screen Base Size
+
+option.sharpness_h=Horizontal Sharpness
+option.sharpness_v=Vertical Sharpness
+
+option.mask_strength=Mask Strength
+option.mask_dot_width=Mask Dot Width
+option.mask_dot_height=Mask Dot Height
+option.mask_stagger=Mask Stagger
+option.mask_size=Mask Size
+
+option.scanline_strength=Scanline Strength
+option.scanline_beam_width_min=Min Scanline Beam Width
+option.scanline_beam_width_max=Max Scanline Beam Width
+option.scanline_bright_min=Min Scanline Brightness
+option.scanline_bright_max=Max Scanline Brightness
+option.scanline_cutoff=Scanline Cutoff
+
+option.gamma_input=Gamma Input
+option.gamma_output=Gamma Output
+
+option.bright_boost=Brightness Boost
+
+option.dilation=Dilation
+value.dilation.0=Off
+value.dilation.1=On
