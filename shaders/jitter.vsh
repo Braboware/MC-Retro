@@ -1,3 +1,5 @@
+//jitter effect, kind of a mess
+
 #include "/settings.glsl"
 //#define XY_JITTER //Switch jitter from XZ-axes to XY-axes
 

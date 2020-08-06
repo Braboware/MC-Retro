@@ -7,13 +7,6 @@ varying vec4 lmcoord;
 
 varying vec3 affine;
 
-/*
-uniform vec2 torchCoord = vec2(17./64., 22./32.);
-uniform vec2 soulTorchCoord = vec2(24./64., 20./32.);
-uniform vec2 redTorchCoord = vec2(6./64., 19./32.);
-uniform vec2 redOffTorchCoord = vec2(7./64., 19./32.);
-*/
-
 varying float fix;
 
 void main()
