@@ -5,7 +5,7 @@
 // Descriptions adapted from https://github.com/AaronWizard/CRTScreenShader
 
 
-#define crt
+#define crt // Enable CRT effect by EasyMode
 
 #define screen_base_size 240 //[30 60 120 240 480 482 720 1080 1440 2160 4320] The virtual minimum pixel dimension, width or height, of the scene. This should be the minimum of your Width and Height settings if you want 1:1 pixels
 
