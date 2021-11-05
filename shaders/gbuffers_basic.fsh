@@ -1,3 +1,5 @@
+#version 420
+
 varying vec4 color;
 
 

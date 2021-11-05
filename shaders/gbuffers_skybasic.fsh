@@ -1,5 +1,5 @@
 //Upper & lower parts of the sky
-
+#version 420
 
 varying vec4 color;
 

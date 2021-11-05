@@ -1,6 +1,8 @@
 // Based on crt-easymode
 // https://github.com/libretro/glsl-shaders/blob/master/crt/shaders/crt-easymode.glsl
 
+#version 420
+
 varying vec2 texCoord;
 
 uniform sampler2D colortex0;
@@ -129,7 +131,7 @@ void main(){
         col = pow(col, vec3(1.0 / gamma_output));
         
         
-        vec3 color = vec4(col * bright_boost, 1.0);
+        vec3 color = col * bright_boost;
     #else
         vec3 color = texture2D(colortex0, texCoord).rgb;
     #endif
